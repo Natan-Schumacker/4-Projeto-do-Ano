@@ -1,25 +1,28 @@
 export const perguntas = [
     {
-        enunciado: "Como você reage a isso:",
+        enunciado: "Qual é a sua reação a isso?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
                     "O novo representante da nação mais desenvolvida do mundo, temeu no começo de seu mandato sobre as questões climáticas,",
+                    "",
+
                 ],
                 proxima: 1,
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
-                    " novo líder da maior nação do mundo começou seu mandato entusiasmado para resolver os problemas climáticos pendentes do país,",
+                    "Quis saber como usar IA no seu dia a dia.",
+                    "Pensou que IA pode ajudar em tarefas da sua vida."
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O que você faria sobre as questões climáticas?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
