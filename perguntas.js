@@ -31,7 +31,7 @@ export const perguntas = [
             {
                 texto: "Dar prioridade para indústria e escavação exessiva e abrindo fabricas .",
                 afirmacao: [
-                    "mas ele não quis atrapalhar a economia, agindo apenas de formas efetivas monetariamente, com o ônus de previsões de pouco resultado para a resolução do problema",
+                    "As industrias se expandiram muito, o ar e a água foram poluidos, e a escavação em excesso acabou destruindo vários ecossistemas, você não sera mais reeleito.",
                 ],
                 proxima: 4,
             },
