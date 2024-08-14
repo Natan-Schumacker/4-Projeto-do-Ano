@@ -14,7 +14,7 @@ export const perguntas = [
                 afirmacao: [
                     "O novo líder, você, da maior nação do mundo começou seu mandato entusiasmado para resolver os problemas climáticos pendentes do país",
                 ],
-                proxima: 1,
+                proxima: 3,
             },
         ]
     },
@@ -29,11 +29,11 @@ export const perguntas = [
                 proxima: 2,
             },
             {
-                texto: "Dar prioridade para indústria e comércio e fazer somente o que pode ser feito sem diminuir o crescimento da economia do país de forma significativa.",
+                texto: "Dar prioridade para indústria e escavação exessiva e abrindo fabricas .",
                 afirmacao: [
                     "mas ele não quis atrapalhar a economia, agindo apenas de formas efetivas monetariamente, com o ônus de previsões de pouco resultado para a resolução do problema",
                 ],
-                proxima: 2,
+                proxima: 4,
             },
         ]
     },
