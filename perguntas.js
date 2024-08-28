@@ -6,6 +6,7 @@ export const perguntas = [
                 texto: "Isso é assustador!",
                 afirmacao: [
                     "você o novo representante da nação mais desenvolvida do mundo, temeu no começo de seu mandato sobre as questões climáticas,",
+                    "você o novo representante de uma grandiosa e potente nação, resguardando no começo de seu mandato sobre questões climáticas",
                 ],
                 proxima: 1,
             },
@@ -13,6 +14,7 @@ export const perguntas = [
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
                     "O novo líder, você, da maior nação do mundo começou seu mandato entusiasmado para resolver os problemas climáticos pendentes do país",
+                    "você o novo representante de uma grandiosa e potente nação, começou o seu mandato pondo em prática seus planos para resolver os grandioso problemas climáticos do país",
                 ],
                 proxima: 3,
             },
